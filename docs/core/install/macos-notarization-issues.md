@@ -19,7 +19,7 @@ ms.locfileid: "88656522"
 
 自 2020 年 2 月 18 日起，.NET Core（运行时和 SDK）版本 3.1、3.0 和 2.1 的安装程序都已经过公证。 以前发布的版本没有经过公证。 通过先下载安装程序，然后使用 `sudo installer` 命令，可以手动安装 .NET Core 的未公证版本。 有关详细信息，请参阅[下载并手动安装 macOS](sdk.md?pivots=os-macos#download-and-manually-install)。
 
-自以下版本开始，.NET Core 安装程序未经过公证：
+自以下版本开始，.NET Core 安装程序经过公证：
 
 - .NET Core 运行时
   - 2.1.16
